@@ -1,2 +1,4 @@
 # spider
-python spider demo
+- Selenium
+- BeautifulSoup
+- Chrome driver
